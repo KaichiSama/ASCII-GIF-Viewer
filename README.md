@@ -9,8 +9,6 @@ Convert and display animated GIFs as ASCII art in the command prompt (CMD). Choo
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -26,3 +24,5 @@ Convert and display animated GIFs as ASCII art in the command prompt (CMD). Choo
 1. Run the script:
    ```bash
    python ascii_gif_viewer.py
+## Installation
+   ```pip install pillow requests
